@@ -1,5 +1,5 @@
 # NEKLOPS
-NEKLOPS es un circuito sonoro basado en ATTINY85 y el physical release de LUDOTECNIA (j.crowe)
+NEKLOPS es un circuito sonoro basado en ATTINY85 y es el physical release de LUDOTECNIA (j.crowe)
 ![alt tag](https://raw.githubusercontent.com/labodejuguete/NEKLOPS/master/neklops.jpg)
 https://youtu.be/s6Rd__J4UZs
 
@@ -8,5 +8,7 @@ open source license: CC BY SA
 https://github.com/bastl-instruments/kastle/tree/master/kastleSynthe_VCO
 http://www.bastl-instruments.com
 
-
+NEKLOPS fue diseñado con Fritzing e Inkscape
+http://fritzing.org/home/
+https://inkscape.org
 
