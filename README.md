@@ -1,6 +1,6 @@
 # LUDOTECNIA
 LUDOTECNIA es un circuito sonoro basado en ATTINY85 y la vez el lanzamiento físico del disco del mismo nombre (j.crowe)
-![alt tag](https://raw.githubusercontent.com/labodejuguete/NEKLOPS/master/neklops.jpg)
+![alt tag](https://raw.githubusercontent.com/labodejuguete/LUDOTECNIA/master/ludotecnia_box.jpg)
 https://youtu.be/s6Rd__J4UZs
 
 LUDOTECNIA hace uso del código de Kastle VCO desarrollado por Vaclav Pelousek
